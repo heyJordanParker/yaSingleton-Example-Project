@@ -1,0 +1,3 @@
+[submodule "Assets/yaSingleton"]
+	path = Assets/yaSingleton
+	url = git@github.com:jedybg/yaSingleton.git
