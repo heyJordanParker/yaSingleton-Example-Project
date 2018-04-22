@@ -6,6 +6,7 @@
 Assets/AssetStoreTools*
 
 .idea/
+*.csproj.DotSettings*
 
 Plugins/
 Plugins.meta
