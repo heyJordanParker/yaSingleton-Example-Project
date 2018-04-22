@@ -1,0 +1,1 @@
+Example project for [yaSingleton](https://github.com/jedybg/yaSingleton). For additional information check yaSingleton's [README](https://github.com/jedybg/yaSingleton/blob/master/README.md).
