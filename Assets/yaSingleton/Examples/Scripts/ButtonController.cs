@@ -21,12 +21,6 @@ namespace yaSingleton.Examples {
             }
         }
 
-        private void Awake() {
-            if(versionLabel) {
-                
-            }
-        }
-
         public void OnPointerClick(PointerEventData eventData) {
             if(!welcomeLabel || !versionLabel) {
                 return;
